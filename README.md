@@ -2,7 +2,14 @@
 
 ## Twitter Clone UI in Flutter
 
+
+
 ### [Youtube - Twitter UI Clone in Flutter - Fast Code](https://youtu.be/ikha-PT-Ip8) 
+
+
+### [View Codes](https://github.com/MriDx/twitter_clone)
+
+
 
 ## Run this project
 
